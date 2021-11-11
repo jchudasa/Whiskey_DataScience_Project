@@ -15,3 +15,12 @@
   - 80-84 points—Good: a solid, well-made whisky
   - 75-79—Mediocre: a drinkable whisky that may have minor flaws
   - 50-74—Not recommended
+
+# About the Author
+
+Jay Chudasama
+jchudasa@chicagobooth.edu
+
+https://www.linkedin.com/in/jchudasama/
+
+I am currently a Director at RBC woroking in the Equtieis Derivatives Technology Group. I gradudated with a Bsc in Computer Science from University of College London and recently completed my MBA at Chicago Booth. I am keen to explore the data science world and create actionable insight.
