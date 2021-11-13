@@ -1,5 +1,14 @@
 # Whiskey_DataScience_Project
 
+# Background & Inspiration
+Over the years, I’ve tasted a very limited selection of whiskies, and they have tended to be the usual common brands such as Johnnie Walker and Glenlivet. Is there a strong relationship between price and quality? My analysis will focus on price and rating.
+
+I was able to web scrape a website called Whiskyadvocate. Whiskyadvocate is America's leading whisky publication. It's a premier source for whisky information, education and entertainment for whisky enthusiasts. There are over 5,000+ whiskey reviews and its this data I plan to use.
+
+# Project Goals
+Is there a strong relationship between price and rating?
+Pick a selection of top rated whiskies that costs less $ 150
+
 # Data Dictionary
 
 - Category – Whiskey category
