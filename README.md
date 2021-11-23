@@ -32,4 +32,4 @@ jchudasa@chicagobooth.edu
 
 https://www.linkedin.com/in/jchudasama/
 
-I am currently a Director at RBC woroking in the Equtieis Derivatives Technology Group. I gradudated with a Bsc in Computer Science from University of College London and recently completed my MBA at Chicago Booth. I am keen to explore the data science world and create actionable insight.
+I am currently a Director at RBC working in the Equities Derivatives Technology Group. I graduated with a Bsc in Computer Science from University of College London and recently completed my MBA at Chicago Booth. I am keen to explore the data science world and create actionable insight.
